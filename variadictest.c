@@ -1,4 +1,4 @@
-#include "variadic_functions.h"
+#include "main.h"
 
 /**
  * print_numbers - prints numbers in a sequence
